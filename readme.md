@@ -1,5 +1,6 @@
-## 使用 NodeJS + Express 運行的留言板
-將 PHP 版本的留言板移植到 Node JS & Express 平台來  
+## 使用 NodeJS & Express 運行的留言板
+將 PHP 版本的留言板移植到 Node JS & Express 平台來  
+這是參與 Lidemy Mentor Program 時的作業，來源：https://github.com/Lidemy/mentor-program-kristxeng#%E7%AC%AC%E5%8D%81%E4%B8%80%E9%80%B10416--0422%E5%BE%8C%E7%AB%AF%E6%A1%86%E6%9E%B6%E4%B8%8A
 
 ## 後端
 **資料庫**  
