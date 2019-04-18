@@ -1,12 +1,5 @@
-
-
-
-//const user = require('./user-setting');
-//console.log('user:', user);
 const username = require('./user-setting').username;
 const password = require('./user-setting').password;
-
-//console.log('u+p;', username, password);
 
 var mysql = require("mysql");
 
