@@ -1,10 +1,19 @@
 
+
+
+//const user = require('./user-setting');
+//console.log('user:', user);
+const username = require('./user-setting').username;
+const password = require('./user-setting').password;
+
+//console.log('u+p;', username, password);
+
 var mysql = require("mysql");
 
 var conn = mysql.createConnection({
   host: "localhost",
-  user: "",
-  password: "",
+  user: username,
+  password: password,
   database: "mentor_program_db",
   multipleStatements: true
 });
